@@ -1,0 +1,8 @@
+names:
+- knife
+- pistol
+- rifle
+nc: 3
+path: data
+train: data/synthetic_merged/images
+val: images/val
